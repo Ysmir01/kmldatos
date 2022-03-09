@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"crs": {"type": "name","properties": {"name": "urn:ogc:def:crs:OGC:1.3:CRS84"}},
+"features":[
+{"type": "Feature", "properties": {" id:": 319, "direccion": "Avenida Blasco Iba\u00f1ez, 22,Valencia,Espa\u00f1a", "promo": "EDIFICIO MARE AURA", "vendido": "FALSO"}, "geometry": {"type": "Point", "coordinates": [-0.3629, 39.4779, 0.0]}}
+]}
